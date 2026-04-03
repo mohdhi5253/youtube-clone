@@ -9,7 +9,7 @@ It replicates the layout of YouTube including header, sidebar, and video grid.
 
 🚀 Live Demo
 
-👉http://127.0.0.1:5501/YouTube-Clone/index.html
+👉http://127.0.0.1:5501/index.html
 
 ---
 
